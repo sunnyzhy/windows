@@ -15,3 +15,5 @@
 2. HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\SoftwareProtecionPlaform\
 
 3. 双击"SkipRearm"，把数"数值数据"改为"1"
+
+4. 重新执行**使用命令来重新获取30天权限**的操作步骤
